@@ -1,9 +1,9 @@
-# 🌞 Welcome
+# 🌞 Welcome to Hydrogen
 
-<img alt="npm latest" src="https://img.shields.io/npm/v/@hydrogen-css/hydrogen/latest?color=%239D5CFF&label=latest&style=for-the-badge"> <img alt="npm beta" src="https://img.shields.io/npm/v/@hydrogen-css/hydrogen/beta?color=%239D5CFF&label=beta&style=for-the-badge">
+<a href='https://hydrogen.design/en/docs/releases/#latest' title="View Hydrogen's latest stable release."><img alt='npm (tag)' src='https://img.shields.io/npm/v/@hydrogen-css/hydrogen/latest?color=%239D5CFF&label=latest'></a> <a href='https://hydrogen.design/en/docs/releases/#latest' title="View Hydrogen's latest beta release."><img alt='npm (tag)' src='https://img.shields.io/npm/v/@hydrogen-css/hydrogen/beta?color=%239D5CFF&label=beta'></a> <img alt='Netlify' src='https://img.shields.io/netlify/f508b5d3-904e-4a1b-9ec9-cf8c2334f0e3?label=docs'>
 
 Hydrogen is an open-source, inline CSS framework powered by data-attributes.
 
-🥳 Big `2.0.0` release coming soon! Check out the [`release/2.0.0` branch of the `hydrogen` repository](https://github.com/hydrogen-css/hydrogen/pull/200) for more info.
+---
 
-[Website](https://hydrogen.design) | [Roadmap](https://workflowy.com/s/hydrogen/7Gjmdbjiqc0Wst1R)
+[Website](https://hydrogen.design) | [Roadmap](https://github.com/orgs/hydrogen-css/projects/3/views/3)
